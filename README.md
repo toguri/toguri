@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toguri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=toguri&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+![Metrics](https://metrics.lecoq.io/toguri)  
+<!-- ![Metrics](https://github.com/toguri/toguri/blob/main/github-metrics.svg) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=toguri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/toguri/yuttogurikat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <p align="left">
   <a href="https://github.com/toguri/toguri/">
     <img src="https://komarev.com/ghpvc/?username=toguri" alt="toguri" />
@@ -32,19 +45,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/posts.svg" />
   </a>
 </p>
-
-<!-- ![Metrics](https://metrics.lecoq.io/toguri) -->
-![Metrics](https://github.com/toguri/toguri/blob/main/github-metrics.svg)
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toguri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=toguri&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=toguri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/toguri/yuttogurikat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)
