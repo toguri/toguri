@@ -27,9 +27,9 @@
 
 ## 🚀 現在取り組んでいること
 
-- 🖥️ サイネージビジネス × AIによる価値創出
-- 🤖 デジタルサイネージの自律最適化エージェントの構想中
-- 🧑‍🏫 JB03〜JB05への育成フレームの実践・試行
+- 🖥️ エンジニアリング × AIによる自由時間の創出
+- 🤖 デジタルサイネージの新時代を妄想
+- 🧑‍🏫 エンジニア育成
 
 ---
 
@@ -47,27 +47,10 @@
 
 ---
 
-## 🛠️ 主なプロジェクト
-
-| リポジトリ | 説明 |
-|-----------|------|
-| [toguri/auto-signage-agent](https://github.com/toguri/auto-signage-agent) | サイネージの自律最適化に向けたプロトタイプ |
-| [toguri/dev-playground](https://github.com/toguri/dev-playground) | 新技術検証＆チュートリアルまとめ |
-
----
-
 ## 🏆 GitHubトロフィー
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=toguri&theme=tokyonight&no-frame=true" alt="GitHub Trophy" />
-</p>
-
----
-
-## 📈 GitHub活動グラフ
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=toguri&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
