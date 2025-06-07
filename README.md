@@ -1,46 +1,96 @@
-### Hi there 👋
+<!-- プロフィールヘッダー -->
+<h1 align="center">👋 こんにちは、@toguri です！</h1>
+<p align="center">
+  以下の内容は、Codex様が勝手に書いた内容です。
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toguri&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=toguri&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  ソフトウェアエンジニア | プロダクトマネージャー | バスケ好きのビール党🍺<br/>
+  「創る」ことにワクワクしながら、日々プロダクトと向き合っています。
 </p>
 
+<!-- GitHub統計情報 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toguri&show_icons=true&theme=tokyonight" alt="toguri's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=tokyonight" alt="Streak stats" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=toguri&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/toguri/yuttogurikat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/toguri/toguri/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<p align="left">
-  <a href="https://github.com/toguri/toguri/">
-    <img src="https://komarev.com/ghpvc/?username=toguri" alt="toguri" />
+<!-- Qiitaバッジ -->
+<p align="center">
+  <a href="https://qiita.com/toguri">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/followers.svg" alt="Qiita Followers" />
   </a>
-  <a href="http://twitter.com/neiraza">
-    <img height="20" src="https://img.shields.io/twitter/follow/neiraza?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/toguri">
-    <img height="20" src="https://img.shields.io/github/followers/toguri?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/2458396/oguri-tooru">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/2458396?label=StackOverflow&logo=stack-overflow&style=flat" />
+  <a href="https://qiita.com/toguri">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/posts.svg" alt="Qiita Posts" />
   </a>
 </p>
 
+---
 
-[![](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)
-  
-<!--
-**toguri/toguri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 現在取り組んでいること
 
-Here are some ideas to get you started:
+- 🖥️ サイネージビジネス × AIによる価値創出
+- 🤖 デジタルサイネージの自律最適化エージェントの構想中
+- 🧑‍🏫 JB03〜JB05への育成フレームの実践・試行
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 関心のあるテーマ
+
+`Product Thinking` ・ `AI Agent` ・ `組織づくり` ・ `モダンフロントエンド` ・ `バスケ戦術`
+
+---
+
+## 📚 執筆・登壇
+
+- [Qiita記事一覧](https://qiita.com/toguri)
+- [Zennプロフィール](https://zenn.dev/toguri)
+- [登壇資料（Speaker Deckなど）](https://speakerdeck.com/toguri)
+
+---
+
+## 🛠️ 主なプロジェクト
+
+| リポジトリ | 説明 |
+|-----------|------|
+| [toguri/auto-signage-agent](https://github.com/toguri/auto-signage-agent) | サイネージの自律最適化に向けたプロトタイプ |
+| [toguri/dev-playground](https://github.com/toguri/dev-playground) | 新技術検証＆チュートリアルまとめ |
+
+---
+
+## 🏆 GitHubトロフィー
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toguri&theme=tokyonight&no-frame=true" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📈 GitHub活動グラフ
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=toguri&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🛠️ スキルセット
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,python,django,flask,git,github,docker,aws,vscode" alt="Skills" />
+</p>
+
+---
+
+## 📫 連絡先
+
+<p align="center">
+  <a href="https://twitter.com/neiraza">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://zenn.dev/toguri">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" alt="Zenn" />
+  </a>
+  <a href="https://qiita.com/toguri">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+</p>
+
