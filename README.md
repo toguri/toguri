@@ -83,11 +83,8 @@
 ## 📫 連絡先
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle">
+  <a href="https://twitter.com/neiraza">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://zenn.dev/toguri">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" alt="Zenn" />
