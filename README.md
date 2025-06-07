@@ -46,7 +46,7 @@
   </a>
 </p>
 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=toguri&theme=github)](https://github-readme-activity-graph.cyclic.app/graph?username=toguri&theme=github)
+[GitHub activity graph for toguri](https://github-readme-activity-graph.cyclic.app/graph?username=toguri&theme=github)
 [![](https://streak-stats.demolab.com?user=toguri&theme=dark)](https://streak-stats.demolab.com?user=toguri&theme=dark)
   
 <!--
