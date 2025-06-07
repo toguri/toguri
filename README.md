@@ -26,23 +26,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://zenn.dev/toguri">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/toguri/likes" />
-  </a>
-  <a href="https://zenn.dev/toguri">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/toguri/followers" />
-  </a>
-  <a href="https://zenn.dev/toguri">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/toguri/articles" />
-  </a>
-  <a href="http://qiita.com/toguri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/followers.svg" />
-  </a>
-  <a href="http://qiita.com/toguri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/posts.svg" />
-  </a>
-</p>
 
 [![](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)](https://activity-graph.herokuapp.com/graph?username=toguri&theme=github)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=dark)
