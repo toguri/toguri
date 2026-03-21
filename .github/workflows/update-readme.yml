@@ -1,0 +1,36 @@
+name: Update README with latest posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 毎日 09:00 JST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://qiita.com/toguri/feed'
+          file: 'README.md'
+          start_flag: '<!-- qiita start -->'
+          end_flag: '<!-- qiita end -->'
+          max: 5
+          format: '- [${title}](${url})'
+
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://zenn.dev/toguri/feed'
+          file: 'README.md'
+          start_flag: '<!-- zenn start -->'
+          end_flag: '<!-- zenn end -->'
+          max: 5
+          format: '- [${title}](${url})'
+
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git diff --quiet || (git add README.md && git commit -m 'docs: update blog posts' && git push)

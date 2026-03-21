@@ -1,79 +1,119 @@
-<!-- プロフィールヘッダー -->
-<h1 align="center">👋 こんにちは、@toguri です！</h1>
 <p align="center">
-  以下の内容は、Codex様が勝手に書いた内容です。
-
-  ソフトウェアエンジニア | プロダクトマネージャー | バスケ好きのビール党🍺<br/>
-  「創る」ことにワクワクしながら、日々プロダクトと向き合っています。
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Product+Manager;Building+products+with+%E2%9D%A4%EF%B8%8F+and+%F0%9F%8D%BA" alt="Typing SVG" />
 </p>
 
-<!-- GitHub統計情報 -->
+<h3 align="center"><samp>@toguri</samp></h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toguri&show_icons=true&theme=tokyonight" alt="toguri's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toguri&theme=tokyonight" alt="Streak stats" />
+  <samp>「創る」ことにワクワクしながら、日々プロダクトと向き合っています。</samp>
 </p>
 
-<!-- Qiitaバッジ -->
 <p align="center">
-  <a href="https://qiita.com/toguri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/followers.svg" alt="Qiita Followers" />
-  </a>
-  <a href="https://qiita.com/toguri">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/toguri/posts.svg" alt="Qiita Posts" />
-  </a>
+  <samp>
+    <a href="https://qiita.com/toguri">qiita</a> ·
+    <a href="https://zenn.dev/toguri">zenn</a> ·
+    <a href="https://speakerdeck.com/toguri">talks</a> ·
+    <a href="https://twitter.com/neiraza">x</a>
+  </samp>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+<samp>
+
+### 🚀 Now
+
+```
+▸ エンジニアリング × AI による自由時間の創出
+▸ デジタルサイネージの新時代を妄想
+▸ エンジニア育成
+```
+
+</samp>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Product_Thinking-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agent-36BCF7?style=flat-square" />
+  <img src="https://img.shields.io/badge/バスケ戦術-36BCF7?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<samp>
+
+### 📝 Recent Posts
+
+</samp>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<samp><b>Qiita</b></samp>
+
+<samp>
+
+<!-- qiita start -->
+- [Kotlin Compose for Web × Ktor Client でGraphQL APIからデータ取得する実装ガイド](https://qiita.com/toguri/items/b8c5c07068e55d1ac2a5)
+- [Mac(M2)でmysql2のinstallで泣きそうになった話し](https://qiita.com/toguri/items/668a55152d6b6b2311f0)
+- [(すぐ忘れる) iterm2起動でtmux](https://qiita.com/toguri/items/23551a9f93d5991dc359)
+- [チャットGPT (ChatGPT) を触ってみた](https://qiita.com/toguri/items/2fe218dbbe8db572fbe9)
+<!-- qiita end -->
+
+</samp>
+
+</td>
+<td width="50%" valign="top">
+
+<samp><b>Zenn</b></samp>
+
+<samp>
+
+<!-- zenn start -->
+- [Compose for Web × GraphQLで Apollo を「使わない」設計判断 — Ktor Client で十分だった話](https://zenn.dev/toguri/articles/compose-web-graphql-without-apollo)
+- [Mac(M2)でmysql2のinstallで泣きそうになった話し](https://zenn.dev/toguri/articles/bea3b6639a86c1)
+- [(すぐ忘れる) iterm2起動でtmux](https://zenn.dev/toguri/articles/b8eee9de86cb25)
+- [マイクロサービスアーキテクチャ 第2版（Ⅰ部 基礎 1章 マイクロサービス）](https://zenn.dev/toguri/articles/1747a2f4cb1486)
+- [AstroNvimに移行してみた](https://zenn.dev/toguri/articles/77c77531fd8316)
+<!-- zenn end -->
+
+</samp>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toguri/toguri/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toguri/toguri/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/toguri/toguri/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🚀 現在取り組んでいること
-
-- 🖥️ エンジニアリング × AIによる自由時間の創出
-- 🤖 デジタルサイネージの新時代を妄想
-- 🧑‍🏫 エンジニア育成
-
----
-
-## 🧠 関心のあるテーマ
-
-`Product Thinking` ・ `AI Agent` ・ `組織づくり` ・ `モダンフロントエンド` ・ `バスケ戦術`
-
----
-
-## 📚 執筆・登壇
-
-- [Qiita記事一覧](https://qiita.com/toguri)
-- [Zennプロフィール](https://zenn.dev/toguri)
-- [登壇資料（Speaker Deckなど）](https://speakerdeck.com/toguri)
-
----
-
-## 🏆 GitHubトロフィー
+### 🛠️ Skills
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toguri&theme=tokyonight&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://skillicons.dev/icons?i=go,ts,rust,kotlin,python,nextjs,nestjs,graphql,docker,terraform,aws,githubactions,neovim" alt="Skills" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Warp-01A4FF?style=flat-square&logo=warp&logoColor=white" alt="Warp" />
 </p>
 
----
-
-## 🛠️ スキルセット
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,python,django,flask,git,github,docker,aws,vscode" alt="Skills" />
+  <samp><i>This README is auto-updated by GitHub Actions</i></samp>
 </p>
-
----
-
-## 📫 連絡先
-
-<p align="center">
-  <a href="https://twitter.com/neiraza">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://zenn.dev/toguri">
-    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" alt="Zenn" />
-  </a>
-  <a href="https://qiita.com/toguri">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
-</p>
-
